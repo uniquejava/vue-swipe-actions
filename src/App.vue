@@ -167,9 +167,9 @@
 }
 .swipeout-list-item {
 	flex: 1;
-	border-bottom: 1px solid lightgray;
+	border: 1px solid lightgray;
 	&:last-of-type {
-		border-bottom: none;
+		border: none;
 	}
 }
 .card {
